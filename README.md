@@ -1,1 +1,2 @@
-# requerimientos-asincronos
+# Javascript - Requerimientos Asíncronos
+Ariel Ortiz
